@@ -1,0 +1,1 @@
+{"firm_1": 5000, "firm_2": -40000, "firm_3": 19000, "average income": 12000}
